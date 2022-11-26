@@ -15,9 +15,13 @@ Dataset can be downloaded from the following link:
 https://grouplens.org/datasets/movielens/20m/
 
 A recommender system is a system that predicts ratings or preferences, a user might give to an item. Often, these are sorted and presented as “top-N recommendations”. Also known as recommender engines, recommendation systems, and recommendation platforms.
+
 Recommender systems are used for rating things (Amazon, Flipkart, etc.), rating content (Youtube, Netflix, New York Times, etc.), rating music (Pandora), rating people (Dating sites), and rating search results (Google).
+
 One of the most interesting event that boosted the research on Recommender Systems is the Netflix Competition (2006-09) where it was asked to improve the RMSE of the Netflix existing recommender system by 0.1 and won by BELLKOR. 
+
 My project is a movie recommendation system using several techniques including content-based recommendation, collaborative based system (User-based and item-based), Matrix Factorization techniques (SVD), Deep Learning (RBM), and Hybrid methods on MovieLens 10K dataset to provide top-N recommendations. Also, I applied the ALS method in Apache spark to recommend movies from MovieLens 20M Dataset which resembles the real-world data.
+
 Metrics used for the project include Accuracy measures like MAE, RMSE, etc., Hit Rate, Average Reciprocal Hit Rate, Coverage, Diversity, Novelty, and Churn.
 
 
