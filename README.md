@@ -24,5 +24,12 @@ My project is a movie recommendation system using several techniques including c
 
 Metrics used for the project include Accuracy measures like MAE, RMSE, etc., Hit Rate, Average Reciprocal Hit Rate, Coverage, Diversity, Novelty, and Churn.
 
+### Content Based
+
+### Colloborative Based 
+#### User similarity Based recommendation
+![image](https://github.com/KonduruVijay/Recommender-Systems/assets/86562384/f57cc62d-8d0f-410e-acae-125916795210)
+
+
 
 
